@@ -6,22 +6,6 @@
 
 I am a computer vision development engineer. I am currently focusing on the development and deployment of image retrieval engine in edge devices, including the identification of vegetables, fruits, dry goods and snacks, and model deployment on NPU development board.
 
-## Educations
-
-* 2015 - 2019
-  * Master Degree of Computer Science and Technology from Zhejiang Sci-Tech University
-* 2011 - 2015
-  * Bachelor Degree in Electronic Information Science and Technology from Zhejiang Sci-Tech University
-
-## Experiences
-
-* 2021 - Now
-  * Computer Vision Development Engineer in YOYO;
-  * Responsible for the development and deployment of image retrieval engine in edge devices, including the identification of non-standard products such as vegetables / fruits / dry goods / snacks and the model deployment on NPU development board.
-* 2021 - 2021
-  * Machine Vision Development Engineer in Webace-I3C;
-  * Engineering development, involving the fields of object detection, video understanding and OCR.
-
 ## Open Source
 
 * [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
@@ -39,13 +23,13 @@ I am a computer vision development engineer. I am currently focusing on the deve
   * [ ZJCV/DCL](https://github.com/ZJCV/DCL): [CVPR 2019] Destruction and Construction Learning for Fine-grained Image Recognition 
 * Video Understanding
   * [ZJCV/X3D](https://github.com/ZJCV/X3D): [CVPR 2020] X3D: Expanding Architectures for Efficient Video Recognition 
-  * [ZJCV/TSM](https://github.com/ZJCV/TSM): [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding
+  * [ZJCV/TSM](https://github.com/ZJCV/TSM): [ICCV 2019] TSM: Temporal Shift Module for Efficient Video Understanding 
 * Deploy
   * [ zjykzj/onnx](https://github.com/zjykzj/onnx): pytorch -> onnx -> onnxruntime/openvino
 * Tool
   * [ zjykzj/pnno](https://github.com/zjykzj/pnno): dataset or annotation file format conversion 
   * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
 
-## Contact
+## Know More
 
-* Email: wy163zhuj@163.com
+See [Zhu Jian's Homepage](https://github.com/zjykzj/zjykzj/blob/main/profile.md)
