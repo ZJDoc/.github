@@ -9,7 +9,8 @@ I am a computer vision development engineer. I am currently focusing on the deve
 ## Open Source
 
 * [ ZJCV/ZCls2](https://github.com/ZJCV/ZCls2): More Faster Object Classification Training Framework
-* [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework 
+* [ ZJCV/ZCls](https://github.com/ZJCV/ZCls): Object Classification Training/Inferring Framework
+* [zjykzj/SimpleIR](https://github.com/zjykzj/SimpleIR): A Simple Framework for Image Retrieval
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
 * [ zjykzj/MPDataset](https://github.com/zjykzj/MPDataset): Custom Iterable Dataset Class for Large-Scale Data Loading
 * Distillating
