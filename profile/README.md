@@ -4,7 +4,7 @@
 
 ## About ME
 
-I am a computer vision development engineer. I am currently focusing on the development and deployment of image retrieval engine in edge devices, including the identification of snacks, vegetables, fruits and dry goods, and model deployment on NPU development board.
+I am a computer vision engineer. I am currently focusing on the development and deployment of image retrieval engine in edge devices, including the identification of snacks, vegetables, fruits and dry goods, and model deployment on NPU development board.
 
 ## Open Source
 
