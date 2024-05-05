@@ -1,4 +1,4 @@
-## Open Sources
+<!-- ## Open Sources
 
 Recognition Tasks
 
@@ -46,8 +46,8 @@ Custom Tools
 * [ zjykzj/zlogo](https://github.com/zjykzj/zlogo): A tool using logo.svg and svglib to generate custom logo
 * [ ZJCV/RotNet](https://github.com/ZJCV/RotNet): Image rotation correction based on DeepLearning
 
-## Know More
+## Explore Further
 
-English version: [About ME](https://github.com/zjykzj/zjykzj/blob/main/profile.md)
+- **English Version**: [About ME](https://github.com/zjykzj/zjykzj/blob/main/profile.md)
 
-Chinese version: [关于我](https://blog.zhujian.life/about/)
+- **Chinese Version**: [关于我](https://blog.zhujian.life/about/) -->
